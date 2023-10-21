@@ -6,7 +6,5 @@ The script will convert all video frames into .jpg images.
 
 If you are having problems running this:
 
-You must have OpenCV installed!
-
 pip install opencv-python
 
